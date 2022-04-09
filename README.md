@@ -1,4 +1,4 @@
-# food4U - Full-stack web application
+# Food4U ![MIT](https://img.shields.io/static/v1?label=MIT&message=License&color=orange)
 
 <img src="./public/assets/images/food-logo.png"/>
 
@@ -7,14 +7,14 @@ An application using the MVC paradigm, with its own server-side API, user authen
 ## Table Of Contents
 
 - [Getting Started](#getting-started)
-  - [Instalation](#instalation)
-  - [Start Application](#start-application)
+- [Instalation](#instalation)
+- [Start Application](#start-application)
 - [Contributors](#contributors)
 - [About The Project](#about-the-project)
-  - [Technologies Used](#technologies-used)
-    - [Back-end](#back-end)
-    - [Front-end](#front-end)
-  - [Web APIs](#web-apis)
+- [Technologies Used](#technologies-used)
+- [Back-end](#back-end)
+- [Front-end](#front-end)
+- [Web APIs](#web-apis)
 - [User Flow](#user-flows)
 - [Deployed URL](#deployed-url)
 - [Plans For Improvement](#plans-for-improvement)
@@ -148,3 +148,7 @@ The URL of the GitHub repository is available [here](https://github.com/andradag
 - Mobile Home Page
 
   <img src="./readMe-screenshots/mobile-home-page.png"/>
+  
+## Contribute
+
+To contribute or ask questions, please <a href="https://mail.google.com/mail/u/0/?tf=cm&to=asmaamusse03@gmail.com&cc&bcc&su&body&fs=1">Email</a> here
