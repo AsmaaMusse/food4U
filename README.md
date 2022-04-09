@@ -34,7 +34,7 @@ An application using the MVC paradigm, with its own server-side API, user authen
 
 ### Instalation
 
-- $ git clone git@github.com:DMO17/food4U.git
+- $ git clone git@github.com:AsmaaMusse/food4U.git
 - $ cd food4U
 - $ npm install
 
